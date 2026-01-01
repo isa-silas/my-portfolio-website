@@ -1,6 +1,6 @@
 import { useRef } from "react";
 import Card from "../components/Card";
-import { Globe } from "../components/globe";
+import { Globe } from "../components/Globe";
 import CopyEmailButton from "../components/CopyEmailButton";
 import { HoverSlideText } from "../components/HoverSlideText";
 import computerImg from "../assets/images/green_computer_code.jpg";
